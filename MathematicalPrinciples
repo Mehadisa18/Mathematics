@@ -1,0 +1,17 @@
+* Guass principle for remainders :
+
+x ** 2 (x square) % p for x in (0,p) ==> Number of remainders = (p+1)/2
+
+Example:
+
+let p be 3 
+
+0^2 = 0
+1^2 = 1
+2^2 = 4
+
+0 % 3 = 0
+1 % 3 = 1
+2 % 3 = 2
+
+(p+1)/ 2 = 2  [ doubt] 
